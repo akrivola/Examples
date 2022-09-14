@@ -1,0 +1,15 @@
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.exe
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.deps.json
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.runtimeconfig.json
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.dll
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.pdb
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.csproj.AssemblyReference.cache
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.AssemblyInfoInputs.cache
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.AssemblyInfo.cs
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.csproj.CoreCompileInputs.cache
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.dll
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\refint\Еxample004_Div.dll
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.pdb
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.genruntimeconfig.cache
+C:\Users\A.krivolapov\Documents\GeekBrains\Examples\Еxample004_Div\obj\Debug\net6.0\ref\Еxample004_Div.dll
